@@ -1,6 +1,6 @@
 # DigiTech24
 
-:pushpin: In this repository you will find some additional materials (e.g. slides, excersises) for a course on "Digital Technology and Computer Architecture (DTCA)". The pdf's are password-protected.
+:pushpin: This repository offers additional materials, such as slides and exercises, for the course "Digital Technology and Computer Architecture (DTCA)." Please note that the PDFs are password-protected.
 
-Claudia Schütze, April 2024
+Claudia Schütze, August 2024
 
